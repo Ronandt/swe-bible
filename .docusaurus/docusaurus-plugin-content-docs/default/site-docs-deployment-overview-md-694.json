@@ -1,0 +1,29 @@
+{
+  "id": "deployment/deployment-overview",
+  "title": "Deployment Overview",
+  "description": "Introduction",
+  "source": "@site/docs/deployment/overview.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/deployment-overview",
+  "permalink": "/deployment/deployment-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "deployment-overview",
+    "title": "Deployment Overview",
+    "sidebar_label": "Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Deployment & CI/CD",
+    "permalink": "/category/deployment--cicd"
+  },
+  "next": {
+    "title": "Helm Charts",
+    "permalink": "/deployment/helm-charts"
+  }
+}

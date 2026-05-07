@@ -1,0 +1,29 @@
+{
+  "id": "tech-stack/infrastructure",
+  "title": "Infrastructure Tools",
+  "description": "| Component | Technology |",
+  "source": "@site/docs/tech-stack/infrastructure.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/infrastructure",
+  "permalink": "/tech-stack/infrastructure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "infrastructure",
+    "title": "Infrastructure Tools",
+    "sidebar_label": "Infrastructure",
+    "sidebar_position": 7
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Object Storage",
+    "permalink": "/tech-stack/object-storage"
+  },
+  "next": {
+    "title": "Code Quality & Security",
+    "permalink": "/tech-stack/code-quality-tools"
+  }
+}

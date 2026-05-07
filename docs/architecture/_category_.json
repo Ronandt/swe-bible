@@ -1,0 +1,8 @@
+{
+  "label": "Best Practices & Architecture",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Clean code architecture, design patterns, and file structure for the backend and frontend."
+  }
+}

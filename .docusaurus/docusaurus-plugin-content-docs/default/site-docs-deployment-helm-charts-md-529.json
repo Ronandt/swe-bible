@@ -1,0 +1,29 @@
+{
+  "id": "deployment/helm-charts",
+  "title": "Helm Charts",
+  "description": "All necessary information can also be found in the official Helm documentation.",
+  "source": "@site/docs/deployment/helm-charts.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/helm-charts",
+  "permalink": "/deployment/helm-charts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "helm-charts",
+    "title": "Helm Charts",
+    "sidebar_label": "Helm Charts",
+    "sidebar_position": 2
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/deployment/deployment-overview"
+  },
+  "next": {
+    "title": "Maintenance",
+    "permalink": "/maintenance"
+  }
+}

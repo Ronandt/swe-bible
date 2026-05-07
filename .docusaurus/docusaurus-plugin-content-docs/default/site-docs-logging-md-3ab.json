@@ -1,0 +1,29 @@
+{
+  "id": "logging",
+  "title": "Logging",
+  "description": "Why Logs?",
+  "source": "@site/docs/logging.md",
+  "sourceDirName": ".",
+  "slug": "/logging",
+  "permalink": "/logging",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "logging",
+    "title": "Logging",
+    "sidebar_label": "Logging",
+    "sidebar_position": 5
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Frontend Architecture",
+    "permalink": "/architecture/frontend-architecture"
+  },
+  "next": {
+    "title": "Code Quality Enforcement",
+    "permalink": "/code-quality-enforcement"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "architecture/frontend-architecture",
+  "title": "Frontend Clean Architecture",
+  "description": "Overview",
+  "source": "@site/docs/architecture/frontend-architecture.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/frontend-architecture",
+  "permalink": "/architecture/frontend-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "frontend-architecture",
+    "title": "Frontend Clean Architecture",
+    "sidebar_label": "Frontend Architecture",
+    "sidebar_position": 3
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Backend Architecture",
+    "permalink": "/architecture/backend-architecture"
+  },
+  "next": {
+    "title": "Logging",
+    "permalink": "/logging"
+  }
+}

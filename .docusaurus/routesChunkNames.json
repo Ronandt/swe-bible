@@ -1,0 +1,158 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-412": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-137": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-381": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/appendix-e24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---appendixcdd-3aa"
+  },
+  "/architecture/architecture-overview-c46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---architecture-architecture-overview-0-b-1-6df"
+  },
+  "/architecture/backend-architecture-3b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---architecture-backend-architecture-9-c-1-138"
+  },
+  "/architecture/frontend-architecture-d19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---architecture-frontend-architecture-622-f27"
+  },
+  "/category/best-practices--architecture-f4b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-best-practices-architecture-3-df-5c0"
+  },
+  "/category/deployment--cicd-f03": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-deployment-cicdebb-78d"
+  },
+  "/category/tech-stack--architecture-cf4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---category-tech-stack-architecture-138-a35"
+  },
+  "/code-quality-enforcement-9b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---code-quality-enforcement-511-284"
+  },
+  "/deployment/deployment-overview-613": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---deployment-deployment-overview-694-24c"
+  },
+  "/deployment/helm-charts-ef9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---deployment-helm-charts-529-a49"
+  },
+  "/developer-roles-2ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---developer-roles-34-f-706"
+  },
+  "/intro-b6d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---intro-0-e-3-7b8"
+  },
+  "/logging-305": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---logging-3-ab-e04"
+  },
+  "/maintenance-ad5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---maintenance-8-da-f33"
+  },
+  "/scalability-921": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---scalabilityca-7-d49"
+  },
+  "/security-dd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---securitydb-3-af6"
+  },
+  "/tech-stack/backend-65a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-backendb-39-7e3"
+  },
+  "/tech-stack/code-quality-tools-b7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-code-quality-tools-655-085"
+  },
+  "/tech-stack/database-993": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-databasee-6-a-c4b"
+  },
+  "/tech-stack/frontend-905": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-frontendc-84-735"
+  },
+  "/tech-stack/infrastructure-28f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-infrastructure-882-0bd"
+  },
+  "/tech-stack/keycloak-d34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-keycloakc-52-e24"
+  },
+  "/tech-stack/object-storage-bae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-object-storage-2-d-6-2ce"
+  },
+  "/tech-stack/tech-stack-overview-07e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-stack-tech-stack-overview-472-7ca"
+  },
+  "/testing-c86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---testingfbe-b5f"
+  }
+}

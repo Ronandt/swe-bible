@@ -1,0 +1,29 @@
+{
+  "id": "tech-stack/database",
+  "title": "Database",
+  "description": "| Setting | Value |",
+  "source": "@site/docs/tech-stack/database.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/database",
+  "permalink": "/tech-stack/database",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "database",
+    "title": "Database",
+    "sidebar_label": "Database",
+    "sidebar_position": 5
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Keycloak",
+    "permalink": "/tech-stack/keycloak"
+  },
+  "next": {
+    "title": "Object Storage",
+    "permalink": "/tech-stack/object-storage"
+  }
+}

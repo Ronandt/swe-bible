@@ -1,0 +1,29 @@
+{
+  "id": "tech-stack/keycloak",
+  "title": "Keycloak",
+  "description": "| Setting | Value |",
+  "source": "@site/docs/tech-stack/keycloak.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/keycloak",
+  "permalink": "/tech-stack/keycloak",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "keycloak",
+    "title": "Keycloak",
+    "sidebar_label": "Keycloak",
+    "sidebar_position": 4
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Frontend",
+    "permalink": "/tech-stack/frontend"
+  },
+  "next": {
+    "title": "Database",
+    "permalink": "/tech-stack/database"
+  }
+}

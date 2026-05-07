@@ -1,0 +1,29 @@
+{
+  "id": "architecture/backend-architecture",
+  "title": "Backend Clean Architecture",
+  "description": "Overview",
+  "source": "@site/docs/architecture/backend-architecture.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/backend-architecture",
+  "permalink": "/architecture/backend-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "backend-architecture",
+    "title": "Backend Clean Architecture",
+    "sidebar_label": "Backend Architecture",
+    "sidebar_position": 2
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/architecture/architecture-overview"
+  },
+  "next": {
+    "title": "Frontend Architecture",
+    "permalink": "/architecture/frontend-architecture"
+  }
+}

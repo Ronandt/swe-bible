@@ -1,0 +1,29 @@
+{
+  "id": "architecture/architecture-overview",
+  "title": "Architecture Overview",
+  "description": "Clean code architecture — 3 layer overview",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/architecture-overview",
+  "permalink": "/architecture/architecture-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "architecture-overview",
+    "title": "Architecture Overview",
+    "sidebar_label": "Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Best Practices & Architecture",
+    "permalink": "/category/best-practices--architecture"
+  },
+  "next": {
+    "title": "Backend Architecture",
+    "permalink": "/architecture/backend-architecture"
+  }
+}

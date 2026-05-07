@@ -1,0 +1,29 @@
+{
+  "id": "tech-stack/code-quality-tools",
+  "title": "Code Quality & Security Tools",
+  "description": "Code Quality",
+  "source": "@site/docs/tech-stack/code-quality.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/code-quality-tools",
+  "permalink": "/tech-stack/code-quality-tools",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "code-quality-tools",
+    "title": "Code Quality & Security Tools",
+    "sidebar_label": "Code Quality & Security",
+    "sidebar_position": 8
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Infrastructure",
+    "permalink": "/tech-stack/infrastructure"
+  },
+  "next": {
+    "title": "Developer Roles",
+    "permalink": "/developer-roles"
+  }
+}

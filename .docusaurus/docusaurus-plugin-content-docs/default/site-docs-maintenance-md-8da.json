@@ -1,0 +1,29 @@
+{
+  "id": "maintenance",
+  "title": "Maintenance",
+  "description": "Maintenance documentation is currently a work in progress. This section will be updated as maintenance processes and procedures are established.",
+  "source": "@site/docs/maintenance.md",
+  "sourceDirName": ".",
+  "slug": "/maintenance",
+  "permalink": "/maintenance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "maintenance",
+    "title": "Maintenance",
+    "sidebar_label": "Maintenance",
+    "sidebar_position": 11
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Helm Charts",
+    "permalink": "/deployment/helm-charts"
+  },
+  "next": {
+    "title": "Appendix / Onboarding",
+    "permalink": "/appendix"
+  }
+}

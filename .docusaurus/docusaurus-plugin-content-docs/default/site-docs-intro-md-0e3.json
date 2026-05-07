@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "Purpose & Scope",
+  "description": "Written By: @DIK",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Purpose & Scope",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "sweBibleSidebar",
+  "next": {
+    "title": "Tech Stack & Architecture",
+    "permalink": "/category/tech-stack--architecture"
+  }
+}

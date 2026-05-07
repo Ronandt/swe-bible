@@ -1,0 +1,153 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "appendix",
+              "path": "/appendix",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "architecture/architecture-overview",
+              "path": "/architecture/architecture-overview",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "architecture/backend-architecture",
+              "path": "/architecture/backend-architecture",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "architecture/frontend-architecture",
+              "path": "/architecture/frontend-architecture",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "code-quality-enforcement",
+              "path": "/code-quality-enforcement",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "deployment/deployment-overview",
+              "path": "/deployment/deployment-overview",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "deployment/helm-charts",
+              "path": "/deployment/helm-charts",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "developer-roles",
+              "path": "/developer-roles",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/intro",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "logging",
+              "path": "/logging",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "maintenance",
+              "path": "/maintenance",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "scalability",
+              "path": "/scalability",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "security",
+              "path": "/security",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/backend",
+              "path": "/tech-stack/backend",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/code-quality-tools",
+              "path": "/tech-stack/code-quality-tools",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/database",
+              "path": "/tech-stack/database",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/frontend",
+              "path": "/tech-stack/frontend",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/infrastructure",
+              "path": "/tech-stack/infrastructure",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/keycloak",
+              "path": "/tech-stack/keycloak",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/object-storage",
+              "path": "/tech-stack/object-storage",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "tech-stack/tech-stack-overview",
+              "path": "/tech-stack/tech-stack-overview",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "testing",
+              "path": "/testing",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "/category/tech-stack--architecture",
+              "path": "/category/tech-stack--architecture",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "/category/best-practices--architecture",
+              "path": "/category/best-practices--architecture",
+              "sidebar": "sweBibleSidebar"
+            },
+            {
+              "id": "/category/deployment--cicd",
+              "path": "/category/deployment--cicd",
+              "sidebar": "sweBibleSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sweBibleSidebar": {
+              "link": {
+                "path": "/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

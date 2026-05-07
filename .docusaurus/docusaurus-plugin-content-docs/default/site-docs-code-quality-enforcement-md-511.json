@@ -1,0 +1,29 @@
+{
+  "id": "code-quality-enforcement",
+  "title": "Enforcing Code Quality",
+  "description": "Overview",
+  "source": "@site/docs/code-quality-enforcement.md",
+  "sourceDirName": ".",
+  "slug": "/code-quality-enforcement",
+  "permalink": "/code-quality-enforcement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "code-quality-enforcement",
+    "title": "Enforcing Code Quality",
+    "sidebar_label": "Code Quality Enforcement",
+    "sidebar_position": 6
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Logging",
+    "permalink": "/logging"
+  },
+  "next": {
+    "title": "Scalability",
+    "permalink": "/scalability"
+  }
+}

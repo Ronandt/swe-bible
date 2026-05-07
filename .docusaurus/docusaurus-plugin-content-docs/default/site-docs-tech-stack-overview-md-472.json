@@ -1,0 +1,29 @@
+{
+  "id": "tech-stack/tech-stack-overview",
+  "title": "Overview",
+  "description": "| Layer | Technology |",
+  "source": "@site/docs/tech-stack/overview.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/tech-stack-overview",
+  "permalink": "/tech-stack/tech-stack-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "tech-stack-overview",
+    "title": "Overview",
+    "sidebar_label": "Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Tech Stack & Architecture",
+    "permalink": "/category/tech-stack--architecture"
+  },
+  "next": {
+    "title": "Backend",
+    "permalink": "/tech-stack/backend"
+  }
+}

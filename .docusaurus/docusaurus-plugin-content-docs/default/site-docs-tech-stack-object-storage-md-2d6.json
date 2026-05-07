@@ -1,0 +1,29 @@
+{
+  "id": "tech-stack/object-storage",
+  "title": "Object Storage",
+  "description": "| Setting | Value |",
+  "source": "@site/docs/tech-stack/object-storage.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/object-storage",
+  "permalink": "/tech-stack/object-storage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "object-storage",
+    "title": "Object Storage",
+    "sidebar_label": "Object Storage",
+    "sidebar_position": 6
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Database",
+    "permalink": "/tech-stack/database"
+  },
+  "next": {
+    "title": "Infrastructure",
+    "permalink": "/tech-stack/infrastructure"
+  }
+}

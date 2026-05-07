@@ -1,0 +1,25 @@
+{
+  "id": "appendix",
+  "title": "Appendix — Developer Onboarding Guide",
+  "description": "Standard Web Application Tech Stack",
+  "source": "@site/docs/appendix.md",
+  "sourceDirName": ".",
+  "slug": "/appendix",
+  "permalink": "/appendix",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "appendix",
+    "title": "Appendix — Developer Onboarding Guide",
+    "sidebar_label": "Appendix / Onboarding",
+    "sidebar_position": 12
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Maintenance",
+    "permalink": "/maintenance"
+  }
+}

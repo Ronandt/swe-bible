@@ -1,0 +1,29 @@
+{
+  "id": "developer-roles",
+  "title": "Developer Roles & Responsibilities",
+  "description": "Based on the stack, developer roles can be roughly divided into three roles. Although ideally a full-stack developer should have the ability to do all three, the amount of technologies and tools involved — coupled with the short lifecycle of the average developer — makes it unreasonable to expect all three unless the developer has prior experience.",
+  "source": "@site/docs/developer-roles.md",
+  "sourceDirName": ".",
+  "slug": "/developer-roles",
+  "permalink": "/developer-roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "developer-roles",
+    "title": "Developer Roles & Responsibilities",
+    "sidebar_label": "Developer Roles",
+    "sidebar_position": 3
+  },
+  "sidebar": "sweBibleSidebar",
+  "previous": {
+    "title": "Code Quality & Security",
+    "permalink": "/tech-stack/code-quality-tools"
+  },
+  "next": {
+    "title": "Best Practices & Architecture",
+    "permalink": "/category/best-practices--architecture"
+  }
+}
