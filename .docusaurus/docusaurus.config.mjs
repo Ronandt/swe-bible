@@ -6,10 +6,26 @@
 export default {
   "title": "Software Engineering Bible",
   "tagline": "Tech stack, architecture, and best practices for production web applications.",
-  "favicon": "img/favicon.ico",
   "url": "https://your-site.example.com",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
+  "markdown": {
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    },
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
+  },
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -18,6 +34,16 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    [
+      "C:\\Users\\decla\\Desktop\\swe docs\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true,
+        "docsRouteBasePath": "/",
+        "indexBlog": false
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -255,29 +281,11 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "emoji": true,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
-    }
-  }
+  "noIndex": false
 };

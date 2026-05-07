@@ -20,6 +20,17 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        docsRouteBasePath: '/',
+        indexBlog: false,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',

@@ -26,13 +26,19 @@ sidebar_position: 2
 ## Responsibilities of the Backend
 
 - Act as the **source of truth** for all data (except user-related data and object storage images themselves)
-- Own all business logic and validation rules — **business logic should NOT be on the frontend**  
-  *(e.g., permission checks, state transitions, data validation, and invariants are enforced exclusively by the backend; the frontend performs UI-only validation)*
+- Own all business logic and validation rules
 - Sole interactor of the database (reads and writes)
 - Sole modifier of object storage
 - Sole interface for granting administrator permissions in Keycloak
 - Sole "receiver" of data requests from the frontend
-- **Ensure its API can only be accessed using a Keycloak Token**
+
+:::danger
+**Business logic must NOT live on the frontend.** Permission checks, state transitions, data validation, and invariants are enforced exclusively by the backend. The frontend performs UI-only validation (required fields, formatting) — never authorisation decisions.
+:::
+
+:::warning
+Every API endpoint must validate the Keycloak token **before** processing the request. No exceptions.
+:::
 
 ## Programming Language
 

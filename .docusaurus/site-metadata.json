@@ -26,6 +26,11 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "3.10.1"
+    },
+    "@easyops-cn/docusaurus-search-local": {
+      "type": "package",
+      "name": "@easyops-cn/docusaurus-search-local",
+      "version": "0.55.1"
     }
   }
 }

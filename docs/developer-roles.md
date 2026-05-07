@@ -60,4 +60,6 @@ A DevOps engineer should be able to:
 
 Particularly for deployment, **all parties need to work very closely with one another** to ensure no discrepancies when converting the development environment to a production-ready app. Ideally, there should be a pre-staging environment where all managed services are set up the same way as production, controlled by one server.
 
-As a measure, after the DevOps engineer sets up the OpenShift environment, **all modifications in the architecture in development and all modifications of secret and configuration variables (including name changes) should be clearly notified by the frontend and backend developers to the DevOps engineer.**
+:::warning
+After the DevOps engineer sets up the OpenShift environment, **all architecture changes and all secret/configuration variable changes (including renames) must be immediately communicated to the DevOps engineer** by frontend and backend developers. Silent changes will break production deployments.
+:::

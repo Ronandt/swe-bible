@@ -26,8 +26,9 @@ sidebar_position: 3
 - Collects user input and sends requests to the backend API along with the **Keycloak token**
 - Performs **UI-only validation** (e.g., required fields, input formatting, basic client-side feedback)
 - Renders backend responses and error states
-- Does **not** contain business logic or authorisation decisions
-- Does **not** directly access the database, modify object storage, or call Keycloak administrative APIs
+:::danger
+The frontend must **not** contain business logic or authorisation decisions, and must **not** directly access the database, modify object storage, or call Keycloak administrative APIs.
+:::
 - Only interacts with Keycloak for login and retrieval of tokens
 - Only calls GET requests using **Presigned URLs** to object storage
 
@@ -79,6 +80,10 @@ ShadCN/UI is a collection of accessible, reusable components built on Radix UI p
 
 Each component uses **Tailwind CSS** for styling, making it easy to adapt to any design system. ShadCN enables consistent components across multiple applications.
 
+:::tip
+Because ShadCN copies components into your codebase rather than installing them as a package, you have full ownership — customise freely without fighting library abstractions.
+:::
+
 - [ShadCN Introduction](https://ui.shadcn.com/docs)
 - [ShadCN Tutorial](https://www.youtube.com/watch?v=Yz3Rfn_UJOo)
 
@@ -94,7 +99,11 @@ Tailwind CSS is a utility-first CSS framework that lets you style elements direc
 
 TanStack Query handles asynchronous data fetching, caching, and state management in React applications. It keeps UI components clean by separating API interface logic from presentation, automatically handling loading, errors, and cache updates.
 
-It replaces `useEffect` for data fetching — acting as the bridge for data (requests and responses) between React and the API world.
+:::tip
+TanStack Query replaces `useEffect` for data fetching. Do not manually fetch data inside `useEffect` — use `useQuery` and `useMutation` instead.
+:::
+
+It acts as the bridge for data (requests and responses) between React and the API world.
 
 [TanStack Query Tutorial](https://www.youtube.com/watch?v=mPaCnwpFvZY)
 
