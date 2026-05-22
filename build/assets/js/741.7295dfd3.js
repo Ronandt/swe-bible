@@ -1,0 +1,1 @@
+(globalThis.webpackChunkswe_bible=globalThis.webpackChunkswe_bible||[]).push([[741],{5741(){}}]);
